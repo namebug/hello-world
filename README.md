@@ -1,7 +1,7 @@
 # hello-world
-我想知道一切
-我想学很多东西呢
-关于这个末世
-你知道的
-掌控
-！
+
+I want know.
+
+I want learn more.
+
+About the world!
